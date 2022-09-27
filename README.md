@@ -1,2 +1,2 @@
 # Hello World!
-# This is exmple1!
+# This is example1!
